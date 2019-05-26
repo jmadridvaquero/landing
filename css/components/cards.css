@@ -20,5 +20,14 @@
 	width: 250px;
 	height: 200px;
 	object-fit: cover;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  transition: 0.5s;
 
+}
+
+
+.card:hover{
+  transform: scale(1.05);
+  transition: 0.5s;
 }
