@@ -1,18 +1,18 @@
 .btn-primary {
   text-decoration: none;
-  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-family: 'Poppins", sans-serif;
   background-color:#1ddc88;
   color: white;
-  border-radius: 15px;
-  padding: 24px 32px;
+  
+  padding: 16px 24px;
   transition: 0.2s;
-  margin-bottom: 0;
+  margin-bottom: 32px;
   font-size: 18px;
   width: 72px;
 }
 
 .btn-primary:hover {
-  background-color:#6FEDB7;
+  background-color:#222E50;
   border-radius: 15px;
   color: #f4f4f4;
 }
@@ -30,3 +30,8 @@
     font-size: 32px;
     margin-right: 24px;
 }
+
+.div h2 {
+  font-size: 240px;
+}
+
